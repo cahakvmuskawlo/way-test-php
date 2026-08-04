@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_dev/
+Disallow: /__pycache__/
+
+Sitemap: https://hrshop.com/sitemap.xml
